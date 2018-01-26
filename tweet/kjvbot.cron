@@ -1,0 +1,4 @@
+SHELL=/bin/bash
+PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin
+
+1 1,7,16,20 * * * kjvbot /home/kjvbot/kjvblockchain/kjvbot.sh
