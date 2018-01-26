@@ -11,6 +11,7 @@ Markov chain requirements:
 Run `python3 kjvico_train.py` to train and display tweets.
 
 The repo contains the training corpus. These texts (KJV + ICOs) were originally obtained from:
+
 * [masonicGit's ICO whitepaper collection](https://github.com/masonicGIT/ico-whitepapers)
 * [Project Gutenberg KJV plain text](https://www.gutenberg.org/ebooks/10?msg=welcome_stranger)
 
