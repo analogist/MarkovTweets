@@ -6,7 +6,6 @@ Markov chain requirements:
 
 * Python (2 or 3)
 * [markovify](https://github.com/jsvine/markovify)
-* [spaCy](https://spacy.io/)
 
 Run `python3 kjvico_train.py` to train and display tweets.
 
